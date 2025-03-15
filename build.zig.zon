@@ -1,10 +1,10 @@
 .{
     .name = .tree_sitter,
-    .version = "0.25.3",
+    .version = "0.25.4",
     .dependencies = .{
         .@"tree-sitter" = .{
             .url = "https://github.com/BlankTiger/tree-sitter/archive/refs/tags/v0.26.0.zip",
-            .hash = "1220183ce3f991b63d570dfea3cc995395b63018e5de748937ecaaf3b0417629a439",
+            .hash = "1220757c6c197e6be1b8386a14440da9c2d509bc5e446bd2c4b9b65ca144e26fbb82",
         },
         .@"tree-sitter-c" = .{
             .url = "https://github.com/tree-sitter/tree-sitter-c/archive/refs/tags/v0.23.4.tar.gz",
